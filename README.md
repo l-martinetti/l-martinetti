@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Junior Web Developer appassionato di sviluppo moderno e tecnologie web. Lavoro con JavaScript, PHP, Node.js, Express.js, React.js, Laravel Blade, Bootstrap e Tailwind CSS.<br>Attualmente sto approfondendo le mie competenze e mi sto orientando con curiosità verso il mondo full-stack.
+👨‍💻 Sono un Junior Web Developer motivato e orientato alla crescita, con una particolare attenzione per la progettazione di soluzioni complete e funzionali. Mi appassiona l'integrazione tra interfacce intuitive e architetture solide, e sto approfondendo il percorso full stack per acquisire una visione sempre più completa dello sviluppo web. Credo nel codice come strumento per trasformare idee in esperienze digitali concrete, utili e ben progettate.
 
 
 ## 🌐 Socials:
