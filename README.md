@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Sono un Junior Web Developer motivato e orientato alla crescita, con una particolare attenzione per la progettazione di soluzioni complete e funzionali. Mi appassiona l'integrazione tra interfacce intuitive e architetture solide, e sto approfondendo il percorso full stack per acquisire una visione sempre più completa dello sviluppo web. Credo nel codice come strumento per trasformare idee in esperienze digitali concrete, utili e ben progettate.
+👨‍💻 Sono un junior web developer all’inizio del mio percorso in questo campo. Mi interessa comprendere il funzionamento delle applicazioni nel loro insieme e sto approfondendo l’approccio full stack per acquisire competenze sia sul fronte client che sul backend, con l’obiettivo di contribuire in modo solido e consapevole allo sviluppo di progetti web.
 
 
 ## 🌐 Socials:
